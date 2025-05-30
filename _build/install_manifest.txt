@@ -1,0 +1,4 @@
+/home/dts/SpectreNutz/workspace/projects/lab06/_build/_CPack_Packages/Linux/TGZ/print-.1.0.0-Linux/lib/libprint.a
+/home/dts/SpectreNutz/workspace/projects/lab06/_build/_CPack_Packages/Linux/TGZ/print-.1.0.0-Linux/include/print.hpp
+/home/dts/SpectreNutz/workspace/projects/lab06/_build/_CPack_Packages/Linux/TGZ/print-.1.0.0-Linux/cmake/print-config.cmake
+/home/dts/SpectreNutz/workspace/projects/lab06/_build/_CPack_Packages/Linux/TGZ/print-.1.0.0-Linux/cmake/print-config-noconfig.cmake
